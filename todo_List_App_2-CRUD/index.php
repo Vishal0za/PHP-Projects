@@ -12,7 +12,7 @@
 	</nav>
 	<div class="col-md-3"></div>
 	<div class="col-md-6 well">
-		<h3 class="text-primary">PHP - Simple To Do List App</h3>
+		<h3 style="text-align:center" class="text-primary">My To Do List App 2</h3>
 		<hr style="border-top:1px dotted #ccc;"/>
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
